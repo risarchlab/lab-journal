@@ -1,1 +1,1 @@
-# home-lab-journal
+# lab-journal
